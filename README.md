@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm a dedicated and diligent computer science student with a profound enthusiasm for data science and software development. 🚀
+I'm a dedicated and passionate computer science student with a profound enthusiasm for data science and software development. 🚀
 
 ## About Me
 
